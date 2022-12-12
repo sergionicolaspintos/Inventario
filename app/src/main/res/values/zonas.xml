@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="ZONAS" >
+       <item>NOA</item>
+       <item>NEA</item>
+       <item>SUR</item>
+       <item>CENTRAL</item>
+
+   </string-array>
+
+
+</resources>
